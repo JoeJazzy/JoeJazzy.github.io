@@ -25,6 +25,10 @@ h1 {
   font-size: 50;
 }
 
+h2 {
+  text-align: center;
+}
+
 a {
   color: inherit;
   text-decoration: none;
