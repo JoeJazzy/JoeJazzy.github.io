@@ -48,7 +48,17 @@ list {
   display: inline-block;
   /* vertical-align: top; */
   align-self: center;
-  margin-left: 1em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+.saying {
+  font-weight: bold;
+  background-color: #3b3b3b;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
 }
 
 .all:nth-child(1) {
@@ -69,6 +79,10 @@ list {
 }
 
 .programming {
+  background-color: #3b3b3b;
+}
+
+.design {
   background-color: #3b3b3b;
 }
 
