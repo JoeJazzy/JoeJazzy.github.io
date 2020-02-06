@@ -2,12 +2,14 @@ body {
   background-color: #282828;
   background-image: url('background.jpg');
   background-position: center;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-attachment: fixed;
   text-align: center;
   vertical-align: middle;
   margin: auto;
-  height: 100%;
   display: table-cell;
 }
 
