@@ -1,6 +1,6 @@
 body {
   background-color: #282828;
-  background-image: url('background.png');
+  background-image: url("background.png");
   background-position: center;
   max-width: 100%;
   max-height: 100%;
@@ -15,18 +15,18 @@ body {
 }
 
 html {
-    display: table;
-    margin: auto;
-    height: 100%;
+  display: table;
+  margin: auto;
+  height: 100%;
 }
 
 h3 {
   color: #edfeff;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 h1 {
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   text-align: center;
   color: #edfeff;
   font-size: 50;
@@ -36,7 +36,7 @@ h2 {
   text-align: center;
   font-size: 13;
   color: #edfeff;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 a {
@@ -59,7 +59,7 @@ list {
 
 .saying {
   font-weight: bold;
-  background-color: #E4A194;
+  background-color: #e4a194;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -76,33 +76,33 @@ list {
 }
 
 .favorites {
-  background-color: #E4A194;
+  background-color: #e4a194;
 }
 
 .reddit {
-  background-color: #E4A194;
+  background-color: #e4a194;
 }
 
 .programming {
-  background-color: #E4A194;
+  background-color: #e4a194;
 }
 
 .design {
-  background-color: #E4A194;
+  background-color: #e4a194;
 }
 
 .entertainment {
-  background-color: #E4A194;
+  background-color: #e4a194;
 }
 
 .linux {
-  background-color: #E4A194;
+  background-color: #e4a194;
 }
 
 .links {
   text-align: center;
   color: #282828;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   text-decoration: none;
   font-weight: bold;
   /*background-color: #ebdbb2;*/
