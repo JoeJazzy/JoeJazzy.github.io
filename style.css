@@ -66,6 +66,12 @@ list {
   width: 10em;
 }
 
+.trakt {
+  position: absolute;
+  left: 30%;
+  text-align: center;
+}
+
 .all:nth-child(1) {
   margin-left: 0;
 }
