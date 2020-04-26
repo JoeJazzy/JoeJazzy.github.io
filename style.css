@@ -1,6 +1,6 @@
 body {
   background-color: #282828;
-  background-image: url("background.png");
+  background-image: url("cherry.jpg");
   background-position: center;
   max-width: 100%;
   max-height: 100%;
@@ -39,6 +39,11 @@ h2 {
   font-family: "Roboto Mono", monospace;
 }
 
+.saying h2 {
+  color: black;
+  font-family: "Roboto Mono", monospace;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -59,7 +64,7 @@ list {
 
 .saying {
   font-weight: bold;
-  background-color: #e4a194;
+  background-color: #EDFEFF;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -82,27 +87,27 @@ list {
 }
 
 .favorites {
-  background-color: #e4a194;
+  background-color: #7F2D1F;
 }
 
 .reddit {
-  background-color: #e4a194;
+  background-color: #688B58;
 }
 
 .programming {
-  background-color: #e4a194;
+  background-color: #B49F4C;
 }
 
 .design {
-  background-color: #e4a194;
+  background-color: #7F2D1F;
 }
 
 .entertainment {
-  background-color: #e4a194;
+  background-color: #688B58;
 }
 
 .linux {
-  background-color: #e4a194;
+  background-color: #B49F4C;
 }
 
 .links {
