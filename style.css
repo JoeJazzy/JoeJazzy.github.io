@@ -9,8 +9,6 @@ body {
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
-  vertical-align: middle;
-  margin: auto;
   display: table-cell;
 }
 
@@ -54,9 +52,13 @@ list {
   text-decoration: none;
 }
 
+.centerme {
+  margin: 50px;
+  padding: 200px 0;
+}
+
 .all {
   display: inline-block;
-  /* vertical-align: top; */
   align-self: center;
   margin-left: 0.5em;
   margin-right: 0.5em;
@@ -116,7 +118,6 @@ list {
   font-family: "Roboto Mono", monospace;
   text-decoration: none;
   font-weight: bold;
-  /*background-color: #ebdbb2;*/
   background-color: #edfeff;
   width: 12em;
 }
