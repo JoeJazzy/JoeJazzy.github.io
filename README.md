@@ -1,3 +1,5 @@
+# **DEPRECATED, USE [joejazzy-startpage](https://gitlab.com/joejazzy06/joejazzy-startpage) INSTEAD** 
+
 # JoeJazzy.github.io
 This is my personal homepage using Github pages
 
